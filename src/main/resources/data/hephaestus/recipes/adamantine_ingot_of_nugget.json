@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "hephaestus:adamantine_nugget"
+    }
+  },
+  "result": {
+    "item": "hephaestus:adamantine_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SIS",
+    "NLN",
+    "SIS"
+  ],
+  "key": {
+    "S": {
+      "item": "hephaestus:preloghtine_string"
+    },
+    "N": {
+      "item": "hephaestus:preloghtine_needle"
+    },
+    "I": {
+      "item": "hephaestus:preloghtine_ingot"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "hephaestus:preloghtine_leather"
+  }
+}

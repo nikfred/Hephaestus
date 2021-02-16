@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hephaestus:adamantine_ingot"
+    }
+  ],
+  "result": {
+    "item": "hephaestus:adamantine_nugget",
+    "count": 9
+  }
+}

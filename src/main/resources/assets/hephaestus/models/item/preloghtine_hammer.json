@@ -1,0 +1,7 @@
+{
+  "parent": "hephaestus:item/iron_hammer",
+  "textures":
+  {
+    "layer0": "hephaestus:items/preloghtine_hammer"
+  }
+}

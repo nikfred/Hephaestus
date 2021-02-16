@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    "LEL",
+    " R "
+  ],
+  "key": {
+    "L": {
+      "item": "hephaestus:preloghtine_leather"
+    },
+    "R": {
+      "item": "hephaestus:iron_rod"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "hephaestus:iron_handle"
+  }
+}

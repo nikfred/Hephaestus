@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "key": {
+    "x": {
+      "item": "hephaestus:preloghtine_ingot"
+    }
+  },
+  "result": {
+    "item": "hephaestus:preloghtine_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "hephaestus:adamantine_ore"
+  },
+  "result": {
+    "item": "hephaestus:adamantine_nugget",
+    "count" : 3
+  } ,
+  "experience": 1.5,
+  "cookingtime": 400
+}

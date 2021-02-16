@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "hephaestus:adamantine_ore"
+  },
+  "result": "hephaestus:adamantine_nugget",
+  "count" : 3,
+  "experience": 1,
+  "cookingtime": 400
+}

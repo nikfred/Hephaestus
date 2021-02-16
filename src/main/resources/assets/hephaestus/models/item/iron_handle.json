@@ -1,0 +1,7 @@
+{
+  "parent": "item/stick",
+  "textures":
+  {
+    "layer0": "hephaestus:items/iron_handle"
+  }
+}

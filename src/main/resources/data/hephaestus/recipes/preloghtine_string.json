@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "PSP",
+    "SPS",
+    "PSP"
+  ],
+  "key": {
+    "P": {
+      "item": "hephaestus:preloghtine_nugget"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "hephaestus:preloghtine_string"
+  }
+}

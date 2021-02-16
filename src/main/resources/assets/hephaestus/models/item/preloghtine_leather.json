@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures":
+  {
+    "layer0": "hephaestus:items/preloghtine_leather"
+  }
+}

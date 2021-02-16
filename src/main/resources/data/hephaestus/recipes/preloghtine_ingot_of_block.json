@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hephaestus:preloghtine_block"
+    }
+  ],
+  "result": {
+    "item": "hephaestus:preloghtine_ingot",
+    "count": 9
+  }
+}
