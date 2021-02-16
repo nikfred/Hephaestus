@@ -49,7 +49,7 @@ public class ModItems {
     //TOOLS
 
     public static final RegistryObject<Item> IRON_HAMMER = ITEMS.register("iron_hammer", () -> new HammerItem(ItemTier.IRON,7, (new Item.Properties()).group(ModItemGroups.MOD_MATERIALS_TAB)));
-    public static final RegistryObject<Item> PRELOGHTINE_HAMMER = ITEMS.register("preloghtine_hammer", () -> new MaterialItem(768));
+    public static final RegistryObject<Item> PRELOGHTINE_HAMMER = ITEMS.register("preloghtine_hammer", () -> new HammerItem(ItemTier.DIAMOND,8, (new Item.Properties()).group(ModItemGroups.MOD_MATERIALS_TAB)));
     public static final RegistryObject<Item> ADAMANTINE_HAMMER = ITEMS.register("adamantine_hammer", () -> new MaterialItem(1500));
 
 
