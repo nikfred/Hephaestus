@@ -18,7 +18,7 @@ import javax.annotation.Nonnull;
 public class ModAnvil extends Block {
 
     private static final VoxelShape TOP = Block.makeCuboidShape(1, 7, 1, 15, 13, 15);
-    private static final VoxelShape BOTTOM = Block.makeCuboidShape(3, 0, 3, 13, 7, 13);
+    private static final VoxelShape BOTTOM = Block.makeCuboidShape(2, 0, 2, 14, 7, 14);
     private static final VoxelShape SHAPE = VoxelShapes.combineAndSimplify(TOP, BOTTOM, IBooleanFunction.OR);
 
     public ModAnvil (Properties properties){
